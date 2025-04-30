@@ -1,5 +1,7 @@
 # Projeto Java: Leitor de Pessoas via CSV
 
+Lucas Leal - 220157772
+
 Arquitetura de Software: Projeto em Java implementa um padrão Adapter para ler dados de pessoas a partir de um arquivo CSV.
 
 ## Estrutura:
